@@ -154,3 +154,13 @@ h2 {
 .redes a:hover {
     opacity: 0.7;
 }
+
+@media (max-width: 600px) {
+    body {
+        padding: 15px;
+    }
+
+    h1 {
+        font-size: 32px;
+    }
+}
